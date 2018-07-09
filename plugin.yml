@@ -1,0 +1,9 @@
+name: Shop
+main: Shop\Main
+version: 0.0.1
+api: [3.0.5, 3.0.0-ALPHA12]
+author: LelioMods
+description: Shop Gui Popup when command fired!
+commands:
+ shop:
+  description: Opens The GUI
