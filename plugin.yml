@@ -1,6 +1,6 @@
 name: Shop
 main: Shop\Main
-version: 0.0.1
+version: 2.1.0
 api: [3.0.5, 3.0.0-ALPHA12]
 author: LelioMods
 description: Shop Gui Popup when command fired!
